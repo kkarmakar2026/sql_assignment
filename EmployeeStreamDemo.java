@@ -38,7 +38,7 @@ class Employee {
 public class EmployeeStreamDemo {
     public static void main(String[] args) {
         List<Employee> employees = Arrays.asList(
-                new Employee(101, "Keshab", 30, "Female", 2018, 55000),
+                new Employee(101, "Arnab", 30, "Female", 2018, 55000),
                 new Employee(102, "Somnath", 35, "Male", 2021, 65000),
                 new Employee(103, "Payel", 28, "Feale", 2019, 60000),
                 new Employee(104, "Balai", 27, "Male", 2022, 50000),
